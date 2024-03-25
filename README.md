@@ -17,7 +17,9 @@ The [synthetic datasets](https://drive.google.com/drive/folders/1gVYbupuIAULqiQO
 
 <h2 align="center"> Structure of Repository</h2>
 The code is packaged according to the original datasets (Adult, Covertype, Intrusion, Credit, and MIMIC).
-In each folder, there are three files (```..._augmentation.ipynb```, ```..._generation.ipynb```, and ```..._evaluation.ipynb```) showing the augmentation, generation, and evaluation process.
+
+In each folder, there are three files ( ```..._augmentation.ipynb``` , ```..._generation.ipynb``` , and ```..._evaluation.ipynb``` ) showing the augmentation, generation, and evaluation process.
+
 All the result images are packaged in the ```images``` folder.
 
 <h2 align="center"> Acknowledgement</h2>
